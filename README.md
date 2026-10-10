@@ -1,2 +1,3 @@
 # dddas
-领域设计的财务系统
+
+> DDD-style financial system. Domain modeling phase.
